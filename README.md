@@ -4,7 +4,7 @@ Project Overview: This is a simple program demonstrating using Python to log "He
 
 Description: This project is intended to verify that I have git working correctly, and that I am able to run Python locally.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5y53ren-fwA)
 
 # Development Environment
 
