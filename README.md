@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Project Overview: This is a simple program demonstrating using Python to log "Hello World" to the console.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Description: This project is intended to verify that I have git working correctly, and that I am able to run Python locally.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tools: Visual Studio Code
 
-{Describe the programming language that you used}
+Programming Language: Python
 
 # Useful Websites
 
+No websites were used, only the videos listed below
+
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Hello World Video Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
